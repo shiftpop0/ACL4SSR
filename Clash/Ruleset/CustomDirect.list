@@ -11,5 +11,7 @@ DOMAIN-SUFFIX,ipapi.co
 DOMAIN-SUFFIX,ip6.seeip.org
 DOMAIN-SUFFIX,members.3322.org
 
-# Parsec
+# Others
 DOMAIN-KEYWORD,parsec
+DOMAIN,www.787fz.com
+DOMAIN-KEYWORD,zerotier
