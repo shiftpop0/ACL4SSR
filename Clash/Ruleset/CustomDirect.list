@@ -15,3 +15,7 @@ DOMAIN-SUFFIX,members.3322.org
 DOMAIN-KEYWORD,parsec
 DOMAIN,www.787fz.com
 DOMAIN-KEYWORD,zerotier
+
+# Papers
+DOMAIN-SUFFIX,dl.acm.org
+DOMAIN-SUFFIX,ieeexplore.ieee.org
