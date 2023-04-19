@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,ipify.org
 DOMAIN-KEYWORD,parsec
 DOMAIN,www.787fz.com
 DOMAIN-KEYWORD,zerotier
+PROCESS-NAME,zerotier-one
 
 # Papers
 DOMAIN-SUFFIX,dl.acm.org
