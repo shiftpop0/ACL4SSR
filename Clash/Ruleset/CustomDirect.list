@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,checkip.synology.com
 #DOMAIN-SUFFIX,ip.sb
 #DOMAIN-SUFFIX,ident.me
 #DOMAIN-SUFFIX,ipify.org
+#DOMAIN-SUFFIX,myunidays.uk
 
 # Others
 DOMAIN-KEYWORD,parsec
